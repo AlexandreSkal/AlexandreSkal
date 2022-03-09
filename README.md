@@ -1,13 +1,9 @@
 
-## Olá eu sou Alexandre Rodrigues, Engenheiro Eletricista buscando uma nova Carreira no desenvolvimento Mobile!
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Hi, I Am Alexandre an electrical engineer looking for  a new career as a mobile developer!
+- 🔭 I’m currently working on industrial automation, programming industrial equipment like PLCs and SCADA systems.
+- 🌱 I’m currently learning Dart and Flutter to be a Mobile Development. In parallel, I’m learning SQL Server.
+- 👯 I'm looking to collaborate on everything that uses flutter at an easy and intermediate level to improve my skills.
+- ⚡ Fun fact: I love DIY and i make many projects  using electronics and 3d print.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Flutter-9cf?style=flat-square&logo=Flutter&logoColor=white)
@@ -26,8 +22,9 @@
 </a>
 
 
-## &#x270d; Contatos
+## &#x270d; Contacts
 
-Segue meus contatos, como hobby faço modelagens mecânicas em 3D e impressão 3D, além dos meus links profissionais vou listar também o instagram onde posto esses trabalhos paralelos .
+Follow my contacts, as a hobby I also do 3D mechanical modeling  and 3D printing, in addition to the professional links I linked my Instagram
 
-<a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/alexandre-santosr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.instagram.com/3dskal/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
