@@ -1,8 +1,8 @@
 
-## Hi, I Am Alexandre an electrical engineer and a father(second job hehe) looking for a new career as a mobile developer!
+## Hi, I Am Alexandre an electrical engineer and a father(second job hehe) looking for a new career as developer!
 - 🔭 I’m currently working on industrial automation, programming industrial equipment like PLCs and SCADA systems.
-- 🌱 I’m currently learning Dart and Flutter to be a Mobile Development. In parallel, I’m learning SQL Server.
-- 👯 I'm looking to collaborate on everything that uses flutter at an easy and intermediate level to improve my skills.
+- 🌱 I’m currently learning JS and Solidity to be a Web3 Development. In parallel, I’m learning React and MongoDB.
+- 👯 I'm looking to collaborate on everything that uses Node and Solidity at an easy and intermediate level to improve my skills.
 - ⚡ Fun fact: I love DIY and i make many projects  using electronics and 3d print.
 
 ## 🔧 Technologies & Tools
