@@ -6,20 +6,22 @@
 - ⚡ Fun fact: I love DIY and i make many projects  using electronics and 3d print.
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-Flutter-9cf?style=flat-square&logo=Flutter&logoColor=white)
-![](https://img.shields.io/badge/Code-%20Dart-9cf?style=flat-square&logo=Dart&logoColor=white)
-![](https://img.shields.io/badge/Code-%20JavaScript-9cf?style=flat-square&logo=javascript&logoColor=white)
-![](https://img.shields.io/badge/Tools-%20SQL%20Server-9cf?style=flat-square&logo=MicrosoftSqlServer&logoColor=white)
+<div align="center">
+  <a href="https://github.com/AlexandreSkal">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreSkal&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+  
+  ##
 
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreSkal&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexandreSkal&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
 
 
 ## &#x270d; Contacts
